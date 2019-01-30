@@ -1,32 +1,51 @@
 {
   "_args": [
     [
-      "angular-animate@1.7.5",
-      "/Users/iamjinsik/works/angular-phonecat"
+      {
+        "raw": "angular-animate@1.7.x",
+        "scope": null,
+        "escapedName": "angular-animate",
+        "name": "angular-animate",
+        "rawSpec": "1.7.x",
+        "spec": ">=1.7.0 <1.8.0",
+        "type": "range"
+      },
+      "/Users/jspark/work/angularjs-test"
     ]
   ],
-  "_from": "angular-animate@1.7.5",
-  "_id": "angular-animate@1.7.5",
-  "_inBundle": false,
-  "_integrity": "sha512-kU/fHIGf2a4a3bH7E1tzALTHk+QfoUSCK9fEcMFisd6ZWvNDwPzXWAilItqOC3EDiAXPmGHaNc9/aXiD9xrAxQ==",
+  "_from": "angular-animate@>=1.7.0 <1.8.0",
+  "_hasShrinkwrap": false,
+  "_id": "angular-animate@1.7.6",
+  "_inCache": true,
   "_location": "/angular-animate",
+  "_nodeVersion": "8.15.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/angular-animate_1.7.6_1547718328454_0.49205765906648136"
+  },
+  "_npmUser": {
+    "name": "petebd",
+    "email": "pete@bacondarwin.com"
+  },
+  "_npmVersion": "6.4.1",
   "_phantomChildren": {},
   "_requested": {
-    "type": "version",
-    "registry": true,
-    "raw": "angular-animate@1.7.5",
-    "name": "angular-animate",
+    "raw": "angular-animate@1.7.x",
+    "scope": null,
     "escapedName": "angular-animate",
-    "rawSpec": "1.7.5",
-    "saveSpec": null,
-    "fetchSpec": "1.7.5"
+    "name": "angular-animate",
+    "rawSpec": "1.7.x",
+    "spec": ">=1.7.0 <1.8.0",
+    "type": "range"
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/angular-animate/-/angular-animate-1.7.5.tgz",
-  "_spec": "1.7.5",
-  "_where": "/Users/iamjinsik/works/angular-phonecat",
+  "_resolved": "https://registry.npmjs.org/angular-animate/-/angular-animate-1.7.6.tgz",
+  "_shasum": "3c48ac592a1a0d98a9ac9ab3fe3b4f6b9393fe7f",
+  "_shrinkwrap": null,
+  "_spec": "angular-animate@1.7.x",
+  "_where": "/Users/jspark/work/angularjs-test",
   "author": {
     "name": "Angular Core Team",
     "email": "angular-core+npm@google.com"
@@ -34,7 +53,19 @@
   "bugs": {
     "url": "https://github.com/angular/angular.js/issues"
   },
+  "dependencies": {},
   "description": "AngularJS module for animations",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-WPzJkmpVQut8SrTPEjAImRqPfcB2E6TsZDndF7Z7Yu5hBDUIvOM/m62rWxLiWhQg2DlbDuejz6mKQwTakgMThA==",
+    "shasum": "3c48ac592a1a0d98a9ac9ab3fe3b4f6b9393fe7f",
+    "tarball": "https://registry.npmjs.org/angular-animate/-/angular-animate-1.7.6.tgz",
+    "fileCount": 8,
+    "unpackedSize": 260446,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJcQE64CRA9TVsSAnZWagAA7yoP/2YqrPU6Ov4+p20oPgpR\nrxsz/LgFdf+t70ambpa5w7cspX/WsiX1V62GhU2LoKonlM8ESBMR2NuGjwRY\nlrqmw32zzuRAdbWVpCK5tSuZ8P04lDGU84ErWuLeu3/Wk4tFjdaZT4hkcrCr\nXVDpf+ql87mJMH7+ALJ9YquUUyR7Q0vxjC5IuPdozBqrPQqfkPd9VxQjnUyc\ngo2nLMNrY1o3s+ijXqHHKVjC4PWTPeuaOb+ZEYSaMN1S6dxKE5oOwolNc2iL\ndp8e+0+RgydyOfBdQGeqsnZmIo6S5Ac8rJ5qpVMN4ThS0JsST8NW8pEkYinW\nW1dmynHbESBpMytJA+kdAFEIObtm38ymF6UQUNydLx4dZyOn6Qoa8ZoFZ5sl\nEe8vyxVbbPr0+NX5KzuQIK8b3eIi2eqSDprXLiAffzsLPqVdHxlIozNLxENw\n8mxiRGgIYvOA2tJhEPEVALGrpB729VKgjkXi5triLaJw3dwdg+o4pmwO0kJj\nVCi96j1JVvv8hsWglOifSh+5tQiYDYRGByzpdQRLE0GG41SgKoC0YavhSilo\ngQv8rkbDMMDYT48znxXLaITt1QFHHKHrXezuA/btlDp1+LRQ0/OJDMw6JGs+\noDgZ551MqmEJs9Y/MNd7ZLK4fViCLWkTakXC0yYL2z7YWF8+qAnawBcPIBSn\ne26O\r\n=5Jei\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "gitHead": "e6b6ca95acf2f339172aff6130bafd26b658762a",
   "homepage": "http://angularjs.org",
   "jspm": {
     "shim": {
@@ -54,7 +85,23 @@
   ],
   "license": "MIT",
   "main": "index.js",
+  "maintainers": [
+    {
+      "name": "angular",
+      "email": "devops+npm@angular.io"
+    },
+    {
+      "name": "angularcore",
+      "email": "angular-core+npm@google.com"
+    },
+    {
+      "name": "petebd",
+      "email": "pete@bacondarwin.com"
+    }
+  ],
   "name": "angular-animate",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/angular/angular.js.git"
@@ -62,5 +109,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.7.5"
+  "version": "1.7.6"
 }

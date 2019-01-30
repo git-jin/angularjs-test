@@ -1,33 +1,51 @@
 {
   "_args": [
     [
-      "angular-mocks@1.7.5",
-      "/Users/iamjinsik/works/angular-phonecat"
+      {
+        "raw": "angular-mocks@1.7.x",
+        "scope": null,
+        "escapedName": "angular-mocks",
+        "name": "angular-mocks",
+        "rawSpec": "1.7.x",
+        "spec": ">=1.7.0 <1.8.0",
+        "type": "range"
+      },
+      "/Users/jspark/work/angularjs-test"
     ]
   ],
-  "_development": true,
-  "_from": "angular-mocks@1.7.5",
-  "_id": "angular-mocks@1.7.5",
-  "_inBundle": false,
-  "_integrity": "sha512-I+Ue2Bkx6R9W5178DYrNvzjIdGh4wKKoCWsgz8dc7ysH4mA70Q3M9v5xRF0RUu7r+2CZj+nDeUecvh2paxcYvg==",
+  "_from": "angular-mocks@>=1.7.0 <1.8.0",
+  "_hasShrinkwrap": false,
+  "_id": "angular-mocks@1.7.6",
+  "_inCache": true,
   "_location": "/angular-mocks",
+  "_nodeVersion": "8.15.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/angular-mocks_1.7.6_1547718464516_0.13319273987999347"
+  },
+  "_npmUser": {
+    "name": "petebd",
+    "email": "pete@bacondarwin.com"
+  },
+  "_npmVersion": "6.4.1",
   "_phantomChildren": {},
   "_requested": {
-    "type": "version",
-    "registry": true,
-    "raw": "angular-mocks@1.7.5",
-    "name": "angular-mocks",
+    "raw": "angular-mocks@1.7.x",
+    "scope": null,
     "escapedName": "angular-mocks",
-    "rawSpec": "1.7.5",
-    "saveSpec": null,
-    "fetchSpec": "1.7.5"
+    "name": "angular-mocks",
+    "rawSpec": "1.7.x",
+    "spec": ">=1.7.0 <1.8.0",
+    "type": "range"
   },
   "_requiredBy": [
     "#DEV:/"
   ],
-  "_resolved": "https://registry.npmjs.org/angular-mocks/-/angular-mocks-1.7.5.tgz",
-  "_spec": "1.7.5",
-  "_where": "/Users/iamjinsik/works/angular-phonecat",
+  "_resolved": "https://registry.npmjs.org/angular-mocks/-/angular-mocks-1.7.6.tgz",
+  "_shasum": "dc291a5311caa0b5b1aaf94a375084c27b477c47",
+  "_shrinkwrap": null,
+  "_spec": "angular-mocks@1.7.x",
+  "_where": "/Users/jspark/work/angularjs-test",
   "author": {
     "name": "Angular Core Team",
     "email": "angular-core+npm@google.com"
@@ -35,7 +53,19 @@
   "bugs": {
     "url": "https://github.com/angular/angular.js/issues"
   },
+  "dependencies": {},
   "description": "AngularJS mocks for testing",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-t3eQmuAZczdOVdOQj7muCBwH+MBNwd+/FaAsV1SNp+597EQVWABQwxI6KXE0k0ZlyJ5JbtkNIKU8kGAj1znxhw==",
+    "shasum": "dc291a5311caa0b5b1aaf94a375084c27b477c47",
+    "tarball": "https://registry.npmjs.org/angular-mocks/-/angular-mocks-1.7.6.tgz",
+    "fileCount": 8,
+    "unpackedSize": 139363,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJcQE9BCRA9TVsSAnZWagAA3q0QAIdjkvishGAUVgCN6PXb\nEyTLYXp+ETNWEN7/kRI7LEbXA4y9iU2Rppx/VpZVFKfhrCW48IAePy81NpMq\n4EAgXBvNnU8Q4qoOzbgyiB+FVXL8ALRy/tbxIeNvg9g97BoZyieEw449AI3m\n92MMUZwXYnQJ33nSk+fz/uKAGGvtwpVf3gfbTrd5lETPQ8y2nm9V8zXeT++S\n4Pb962pnicRE9TbshDZpay0Adzh0GWmihUgKMeBa03DKqbna+lUfBS++B4Ry\nzjL53MbxqDpVdJZ+ls3KDz5OOtxoW0fey658+7v5nev1C2meX3cU3wzf+SeL\nuOG0hs5rctMIaKUUIToONmQRSLaGZn2WQBvMKA9EQmivlopr0J5PYJsNocu0\nJvpMhNIRLY9gEcJ0vBvIRYkB4zv8lxX0gEb3USAVH2OQILA3H/ggb3Xsb9OI\n+E7AzdjbLhlqDmquexyCs/PNlPzaQAMVIemHd0fN5Jas6DheP7hb6MM2yzBj\nKR6DaYo+2GbvEuNDc2oGkfR9AfUCWwQ5E1ce83uWx2OCRysB0nx9ovzd3Twd\n2QksdQmBftqKSV1kMhpzxjydE7tOp6sVtFd7NavUjeUqla12brfcESsjUlvX\nKrrfI9ZMQsRoJUz3YgJNImdDlkPm1d5QBegiVQrNjco2da/wdQtU3+BCS91G\no9yh\r\n=8Qrk\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "gitHead": "8e0088c1a2070be656336dce8f3610d5054a8fdf",
   "homepage": "http://angularjs.org",
   "jspm": {
     "shim": {
@@ -56,7 +86,23 @@
   ],
   "license": "MIT",
   "main": "angular-mocks.js",
+  "maintainers": [
+    {
+      "name": "angular",
+      "email": "devops+npm@angular.io"
+    },
+    {
+      "name": "angularcore",
+      "email": "angular-core+npm@google.com"
+    },
+    {
+      "name": "petebd",
+      "email": "pete@bacondarwin.com"
+    }
+  ],
   "name": "angular-mocks",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/angular/angular.js.git"
@@ -64,5 +110,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.7.5"
+  "version": "1.7.6"
 }
