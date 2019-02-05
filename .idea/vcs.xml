@@ -2,9 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-<<<<<<< HEAD
-=======
-    <mapping directory="$PROJECT_DIR$/zsh-syntax-highlighting" vcs="Git" />
->>>>>>> 79bf9671bc530f96c80c176b70279d87ab49847f
   </component>
 </project>

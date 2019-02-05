@@ -3,9 +3,9 @@
   <component name="ChangeListManager">
 <<<<<<< HEAD
     <list default="true" id="47a72fa9-d240-46b0-bb63-d1599e76cd90" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.html" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/app/lib/angular-animate/angular-animate.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/lib/angular-animate/angular-animate.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/lib/angular-animate/angular-animate.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/lib/angular-animate/angular-animate.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/lib/angular-animate/angular-animate.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/lib/angular-animate/angular-animate.min.js.map" afterDir="false" />
@@ -33,7 +33,13 @@
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
 >>>>>>> 79bf9671bc530f96c80c176b70279d87ab49847f
+=======
+      <change beforePath="$PROJECT_DIR$/app/phone-list.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/phone-list.component.js" afterDir="false" />
+>>>>>>> feature/angular
     </list>
+=======
+    <list default="true" id="47a72fa9-d240-46b0-bb63-d1599e76cd90" name="Default Changelist" comment="" />
+>>>>>>> cfca381b3bad7fe7ba07d3ebe5ab04fe8b1c58c5
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,10 +47,19 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+=======
     <leaf>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
 <<<<<<< HEAD
             <state relative-caret-position="240">
               <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
@@ -69,6 +84,37 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
               <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+=======
+            <state relative-caret-position="180">
+              <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+>>>>>>> cfca381b3bad7fe7ba07d3ebe5ab04fe8b1c58c5
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/phone-list.component.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="39" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/phone-list/phone-list.template.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="43" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+>>>>>>> cfca381b3bad7fe7ba07d3ebe5ab04fe8b1c58c5
+>>>>>>> feature/angular
             </state>
           </provider>
         </entry>
@@ -78,7 +124,10 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
               <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+<<<<<<< HEAD
 >>>>>>> 79bf9671bc530f96c80c176b70279d87ab49847f
+=======
+>>>>>>> feature/angular
             </state>
           </provider>
         </entry>
@@ -87,12 +136,17 @@
         <entry file="file://$PROJECT_DIR$/app/app.js">
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
             <state relative-caret-position="255">
               <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
 =======
             <state>
               <caret column="15" selection-start-column="15" selection-end-column="15" />
 >>>>>>> 79bf9671bc530f96c80c176b70279d87ab49847f
+=======
+            <state>
+              <caret column="34" selection-start-column="34" selection-end-column="34" />
+>>>>>>> feature/angular
             </state>
           </provider>
         </entry>
@@ -114,10 +168,18 @@
     <option name="CHANGED_PATHS">
       <list>
 <<<<<<< HEAD
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/app/index.html" />
+=======
+>>>>>>> feature/angular
         <option value="$PROJECT_DIR$/app/app.js" />
+        <option value="$PROJECT_DIR$/app/phone-list.component.js" />
+        <option value="$PROJECT_DIR$/app/index.html" />
       </list>
     </option>
+  </component>
+  <component name="PhpServers">
+    <servers />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1680" />
@@ -143,15 +205,22 @@
     <ConfirmationsSetting value="2" id="Add" />
 >>>>>>> 79bf9671bc530f96c80c176b70279d87ab49847f
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
       <pane id="Scope" />
 >>>>>>> 79bf9671bc530f96c80c176b70279d87ab49847f
+=======
+      <pane id="Scope" />
+>>>>>>> feature/angular
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -178,9 +247,12 @@
         </subPane>
       </pane>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <pane id="Scope" />
 =======
 >>>>>>> 79bf9671bc530f96c80c176b70279d87ab49847f
+=======
+>>>>>>> feature/angular
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -216,6 +288,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548848378118</updated>
+<<<<<<< HEAD
       <workItem from="1548848379446" duration="309000" />
 =======
       <changelist id="c1a4f07b-d9b6-463d-a476-246bb4949275" name="Default Changelist" comment="" />
@@ -225,17 +298,33 @@
       <updated>1548835509467</updated>
       <workItem from="1548835510884" duration="7583000" />
 >>>>>>> 79bf9671bc530f96c80c176b70279d87ab49847f
+=======
+      <workItem from="1548848379446" duration="1982000" />
+      <workItem from="1548939677803" duration="378000" />
+>>>>>>> feature/angular
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="309000" />
+=======
+    <option name="totallyTimeSpent" value="2360000" />
+>>>>>>> feature/angular
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
+=======
+    <option name="totallyTimeSpent" value="1465000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1680" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
+<<<<<<< HEAD
       <window_info id="npm" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
@@ -259,6 +348,13 @@
       <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32970297" />
 >>>>>>> 79bf9671bc530f96c80c176b70279d87ab49847f
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
+=======
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
+>>>>>>> cfca381b3bad7fe7ba07d3ebe5ab04fe8b1c58c5
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+>>>>>>> feature/angular
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -266,16 +362,27 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+<<<<<<< HEAD
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.2897959" />
+=======
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32970297" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+>>>>>>> cfca381b3bad7fe7ba07d3ebe5ab04fe8b1c58c5
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -353,11 +460,25 @@
         <state relative-caret-position="240">
           <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
 >>>>>>> 79bf9671bc530f96c80c176b70279d87ab49847f
+=======
+    <entry file="file://$PROJECT_DIR$/app/app.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+>>>>>>> feature/angular
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/app.js">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
 <<<<<<< HEAD
         <state relative-caret-position="255">
           <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
@@ -365,6 +486,22 @@
         <state>
           <caret column="15" selection-start-column="15" selection-end-column="15" />
 >>>>>>> 79bf9671bc530f96c80c176b70279d87ab49847f
+=======
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/phone-list.component.js">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="420">
+          <caret line="28" column="39" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
+=======
+        <state relative-caret-position="180">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+>>>>>>> cfca381b3bad7fe7ba07d3ebe5ab04fe8b1c58c5
+>>>>>>> feature/angular
         </state>
       </provider>
     </entry>
