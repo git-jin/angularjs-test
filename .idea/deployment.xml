@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="dodcompany">
+    <serverData>
+      <paths name="dodcompany">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/dodcompany/dod" local="$PROJECT_DIR$" web="http://112.175.232.138" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
